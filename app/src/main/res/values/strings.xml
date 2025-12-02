@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gestor de Productos Híbrido</string>
+
+    <string name="sku_format">SKU: %s</string>
+    <string name="nombre_format">Nombre: %s</string>
+    <string name="precio_format">Precio: $%s</string>
+
+</resources>
